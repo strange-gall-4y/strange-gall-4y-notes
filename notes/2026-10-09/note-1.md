@@ -1,6 +1,6 @@
-# Todo — day 281
+# Notes — day 281
 
-- reviewed sql notes
-- drafted a checklist
+- reviewed typescript notes
+- cleaned up a script
 - next: read docs
-- seed: 19290635
+- seed: 7f2b39f7
